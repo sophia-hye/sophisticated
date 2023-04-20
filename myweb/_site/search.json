@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "Blog/index.html",
+    "href": "Blog/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "myweb",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nArtificial Intelligence\n\n\n\n\n\n\n\nAI\n\n\n\n\n\n\n\n\n\n\n\nMar 10, 2023\n\n\nJihye Kim, Sophia\n\n\n\n\n\n\n\n\nMachine Learning\n\n\n\n\n\n\n\nML\n\n\n\n\n\n\n\n\n\n\n\nMar 10, 2023\n\n\nJihye Kim, Sophia\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\nDL\n\n\n\n\n\n\n\n\n\n\n\nMar 10, 2023\n\n\nJihye Kim, Sophia\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Blog/00-AI/index.html",
+    "href": "Blog/00-AI/index.html",
+    "title": "Artificial Intelligence",
+    "section": "",
+    "text": "Blog index page"
+  },
+  {
+    "objectID": "Blog/10-ML/index.html",
+    "href": "Blog/10-ML/index.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Blog index page"
+  },
+  {
+    "objectID": "Blog/20-DL/index.html",
+    "href": "Blog/20-DL/index.html",
+    "title": "Deep Learning",
+    "section": "",
+    "text": "Blog index page"
+  }
+]
